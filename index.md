@@ -15,7 +15,7 @@ This is because it sometimes gives me annoying errors.
 
 ## More Info
 
-In my free time, I like going to this niche website called [YouTube](https://www.youtube.com/) and watch videos!
+In my free time, I like going to this niche website called [YouTube](https://www.youtube.com/) and watching videos!
 
 [If you're curious about my favorite programming language, click this!](/test.md)
 
@@ -35,7 +35,8 @@ Now here's a to-do list for my day:
 - [x] Eat food
 - [x] Finish this lab assignment
 - [ ] Play badminton
-# Links to the example headings above
+![Badminton!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmB-97JGWp9bXm0rrra0Zuss4yXf6vK13cSg&s)
+## Links to the example headings above
 
 Link to the About Me section: [Link Text](#about-me).
 
