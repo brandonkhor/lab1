@@ -17,7 +17,7 @@ This is because it sometimes gives me annoying errors.
 
 In my free time, I like going to this niche website called [YouTube](https://www.youtube.com/) and watch videos!
 
-[If you're curious about my favorite programming language, click this!](/README.md)
+[If you're curious about my favorite programming language, click this!](/test.md)
 
 Here is a list of my favorite artists:
 1. Playboi Carti
