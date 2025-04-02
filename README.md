@@ -1,2 +1,2 @@
 # lab1
-Brandon's User Page
+I like Python because it is simpler than others!
