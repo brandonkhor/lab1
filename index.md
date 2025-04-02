@@ -35,7 +35,11 @@ Now here's a to-do list for my day:
 - [x] Eat food
 - [x] Finish this lab assignment
 - [ ] Play badminton
+
+
 ![Badminton!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmB-97JGWp9bXm0rrra0Zuss4yXf6vK13cSg&s)
+
+
 ## Links to the example headings above
 
 Link to the About Me section: [Link Text](#about-me).
